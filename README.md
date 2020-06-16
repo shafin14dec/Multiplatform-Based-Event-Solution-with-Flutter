@@ -11,12 +11,12 @@ On the other hand, we are using Flutter for our mobile application which is quit
 
 ## Methodology
 Mobile application and website should have connection to each other. That is why, after making REST API, I started working with the app. Firstly, I made the UI and UX design. After that I started writing code with flutter. After designing the layout of the app, I made connection between the app and the website through API. The app runs smoothly. But not having Mac OS, the iOS app development was not fiished.
-![](input_images/event13.jpg)
-![](input_images/event12.jpg)
-![](input_images/event11.jpg)
-![](input_images/event10.jpg)
-![](input_images/event9.jpg)
-![](input_images/event8.jpg)
-![](input_images/event7.jpg)
+![](images/event13.jpg)
+![](images/event12.jpg)
+![](images/event11.jpg)
+![](images/event10.jpg)
+![](images/event9.jpg)
+![](images/event8.jpg)
+![](images/event7.jpg)
 
 ### Website: https://obscure-hollows-36531.herokuapp.com
