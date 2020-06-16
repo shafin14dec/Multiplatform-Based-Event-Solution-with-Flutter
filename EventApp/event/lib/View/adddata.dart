@@ -87,20 +87,7 @@ class AddDataState extends State<AddData> {
                 ),
               ),
 
-              /*Container(
-                height: 50,
-                child: new TextField(
-                  controller: _priceController,
-                  keyboardType: TextInputType.text,
-                  decoration: InputDecoration(
-                    labelText: 'Price',
-                    hintText: 'Place your price',
-                    icon: new Icon(Icons.vpn_key),
-                  ),
-                ),
-              ),
-              new Padding(padding: new EdgeInsets.only(top: 44.0),),
-*/
+
 SizedBox(height:20.0),
               Container(
                 height: 35,
